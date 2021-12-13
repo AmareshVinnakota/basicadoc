@@ -1,5 +1,6 @@
 = Payment Orchestrator Service
 :toc: left
-=Introduction
+
+= Introduction
  
 The PaymentOchestrator is a basic Service
